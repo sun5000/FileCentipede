@@ -192,6 +192,9 @@ FileU 的完整源代码可以在“source_code”目录中找到。
 | 越南语   | [@vuongtuha](https://github.com/vuongtuha)                                            |
 | 土耳其   | [@geeeede](https://github.com/geeede)                                                 |
 | 印度尼西亚 | [@吉格利洛](https://github.com/gigglylo)                                                  |
+| 德语    | [@Vulcanraven91](https://github.com/Vulcanraven91)                                    |
+| 日本人   | [@wany-哦](https://github.com/wany-oh)                                                 |
+| 抛光    | [@鲁诺霍克](https://github.com/RunoHawk)                                                  |
 
 ## 开源库
 
