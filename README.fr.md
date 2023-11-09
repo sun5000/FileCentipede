@@ -24,7 +24,7 @@ Site web:<http://filecxx.com>
 
 Tableau de bord:<https://w.filecxx.com>
 
-Sponsors: <http://www.filecxx.com/en_US/sponsors.html>
+Commanditaires :<http://www.filecxx.com/en_US/sponsors.html>
 
 ## Capture d'écran
 
@@ -192,6 +192,9 @@ Cela rendra le logiciel plus accessible aux personnes parlant des langues autres
 | vietnamien           | [@vuongtuha](https://github.com/vuongtuha)                                               |
 | turc                 | [@geeeede](https://github.com/geeede)                                                    |
 | indonésien           | [@gigglylo](https://github.com/gigglylo)                                                 |
+| Allemand             | [@Vulcanraven91](https://github.com/Vulcanraven91)                                       |
+| Japonais             | [@wany-oh](https://github.com/wany-oh)                                                   |
+| polonais             | [@RunoHawk](https://github.com/RunoHawk)                                                 |
 
 ## Opensource libraries
 
