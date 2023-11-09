@@ -110,7 +110,7 @@ File centipede — это универсальный менеджер загру
 -   БитТоррент 1.0
 -   Другие пользовательские протоколы, такие как Thunder, flashget, qqdl 1.0.
 -   Адрес в формате JSON 1.0
--   m3u8 stream task	1.0
+-   Потоковая задача m3u8 1.0
 -   Расшифровка потоковой задачи AES-128 (расшифровка SAMPLE-AES пока не поддерживается) 1.0
 -   HTTP cookie, заголовок, пользовательский агент с пользовательской настройкой 1.0
 -   Лимит раздачи торрентов 1.0
@@ -164,7 +164,7 @@ File centipede — это универсальный менеджер загру
 
 Было доказано, что написание пользовательских интерфейсов на C++ может быть значительно проще, чем на HTML и JavaScript, без снижения производительности.
 
-(как видно из файлов .sml в каталоге «UI»).
+(как показано в файлах .sml в каталоге «UI»).
 
 ## Переводить
 
@@ -186,12 +186,15 @@ File centipede — это универсальный менеджер загру
 | :--------------------- | :--------------------------------------------------------------------------------------- |
 | Русский                | [@ванья-сан](https://github.com/vanja-san)[@Den1704](https://github.com/Den1704)         |
 | традиционный китайский | [@bear0316](https://github.com/bear0316)[@postman1year](https://github.com/postman1year) |
-| Французский            | [@kasikh](https://github.com/XIAA25)                                                     |
-| Голландский            | [@kasikh](https://github.com/XIAA25)                                                     |
+| Французский            | [@Ксахих](https://github.com/XIAA25)                                                     |
+| Голландский            | [@Ксахих](https://github.com/XIAA25)                                                     |
 | Корейский              | [@VenusGirl](https://github.com/VenusGirl)                                               |
 | вьетнамский            | [@vuongtuha](https://github.com/vuongtuha)                                               |
 | турецкий               | [@geeeede](https://github.com/geeede)                                                    |
 | индонезийский          | [@gigglylo](https://github.com/gigglylo)                                                 |
+| Немецкий               | [@Vulcanraven91](https://github.com/Vulcanraven91)                                       |
+| Японский               | [@wany-ох](https://github.com/wany-oh)                                                   |
+| Польский               | [@RunoHawk](https://github.com/RunoHawk)                                                 |
 
 ## Библиотеки с открытым исходным кодом
 
