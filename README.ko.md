@@ -145,7 +145,7 @@
 -   SSH, SFTP 프로토콜 2.0
 -   컬, wget, aria2, axel 명령줄 2.0
 -   WebDAV 프로토콜 2.0
--   Upload file	2.0
+-   파일 2.0 업로드
 -   업로드 디렉토리 2.0
 -   디렉토리 2.0 다운로드
 -   모든 기능을 갖춘 WebDAV 파일 관리자 2.0
@@ -186,12 +186,15 @@ FileU의 전체 소스 코드는 "source_code" 디렉터리에서 찾을 수 있
 | :------ | :-------------------------------------------------------------------------------- |
 | 러시아인    | [@반자산](https://github.com/vanja-san)[@덴1704](https://github.com/Den1704)          |
 | 중국어 번체  | [@bear0316](https://github.com/bear0316)[@우체부1년](https://github.com/postman1year) |
-| 프랑스 국민  | [@kasikh](https://github.com/XIAA25)                                              |
-| 네덜란드 사람 | [@kasikh](https://github.com/XIAA25)                                              |
+| 프랑스 국민  | [@크사히크](https://github.com/XIAA25)                                                |
+| 네덜란드 사람 | [@크사히크](https://github.com/XIAA25)                                                |
 | 한국어     | [@비너스걸](https://github.com/VenusGirl)                                             |
 | 베트남어    | [@vuongtuha](https://github.com/vuongtuha)                                        |
-| 터키어     | [@geeeede](https://github.com/geeede)                                             |
+| 터키어     | [@geeede](https://github.com/geeede)                                              |
 | 인도네시아 인 | [@gigglylo](https://github.com/gigglylo)                                          |
+| 독일 사람   | [@Vulcanraven91](https://github.com/Vulcanraven91)                                |
+| 일본어     | [@wany-oh](https://github.com/wany-oh)                                            |
+| 광택      | [@루노호크](https://github.com/RunoHawk)                                              |
 
 ## 오픈소스 라이브러리
 
